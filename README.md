@@ -31,7 +31,7 @@
 Introducing Wardrobe Wizard, your personal AI-powered style assistant! Our innovative system scans images of clothes uploaded from your wardrobe and allows you to select the occasion or style you're dressing for. With this information, Wardrobe Wizard recommends the perfect outfit for any event, ensuring you always look your best.
 </p>
 <p><strong>Link to Demo Videos</strong>
-https://drive.google.com/drive/folders/1T-GQfl3ogf-KyzS4cY9UPIjahOKtnJ9E?usp=sharing
+https://drive.google.com/drive/folders/15QfTGl-19z9BL0LgEYmfMa99oqt7emjG?usp=sharing
 </p>
 <br>
 
