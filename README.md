@@ -65,7 +65,7 @@ https://drive.google.com/drive/folders/1T-GQfl3ogf-KyzS4cY9UPIjahOKtnJ9E?usp=sha
 
 <h2><strong>Project Architecture</h2></strong>
 
-<img  src="./readme_assets/WiseWardro_architect_bk.png" alt="Project Architecture and Tech Stack" width="400" height="auto"/>
+<img  src="./readme_assets/architecture_diagram_WW.png" alt="Project Architecture and Tech Stack" width="400" height="auto"/>
 <br>
 
 ---
