@@ -108,18 +108,7 @@ https://drive.google.com/drive/folders/1T-GQfl3ogf-KyzS4cY9UPIjahOKtnJ9E?usp=sha
 
 ---
 
-## Next steps for WARDROBE WIZARD
 
-- Refining the prompt further is essential to achieve more accurate results.
-- Currently, the app uses IndexedDB for client-side image storage and transmits images as form data between the client and server. Switching to cloud data storage will improve scalability.
-- We intend to implement a user profile feature to collect specific details about each user. This information will be used to query the GPT Vision model, providing more personalized fashion suggestions tailored to individual users.
-- We plan to integrate **Myntra's API** to offer additional suggestions for accessories and other missing items to enhance the user's look.
-
-
----
-
-
-<br>
 <h2 align="center"><b>Developed by Team Girls Who Code</b></h2><br>
 
 
