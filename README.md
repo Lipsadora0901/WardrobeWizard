@@ -101,7 +101,7 @@ https://drive.google.com/drive/folders/15QfTGl-19z9BL0LgEYmfMa99oqt7emjG?usp=sha
   <br><br><br>
   <b>4)</b> Click on the <b>Try New Looks</b> button to create more outfit combinations
   <br><br>
-  <img src="readme_assets\7.png"> 
+  <img src="readme_assets\New_looks.png"> 
 </div>
 
 </div>
