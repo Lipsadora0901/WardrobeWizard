@@ -109,12 +109,5 @@ https://drive.google.com/drive/folders/15QfTGl-19z9BL0LgEYmfMa99oqt7emjG?usp=sha
 ---
 
 
-<h2 align="center"><b>Developed by Team Girls Who Code</b></h2><br>
 
-
-[![](https://img.shields.io/badge/LinkedIn-Adya_Verma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adya-verma-b5241824a/)
-
-[![](https://img.shields.io/badge/LinkedIn-Nayanika_S_Chowdhury-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nayanika-singha-chowdhury-95255624a/)
-
-[![](https://img.shields.io/badge/LinkedIn-Siuli_Sabnam-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siuli-sharon-sabnam/)
  
